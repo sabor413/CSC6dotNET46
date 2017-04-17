@@ -1,0 +1,6 @@
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\bin\Debug\CSC6dotNET46.exe.config
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\bin\Debug\CSC6dotNET46.exe
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\bin\Debug\CSC6dotNET46.pdb
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\obj\Debug\CSC6dotNET46.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\obj\Debug\CSC6dotNET46.exe
+C:\Users\Carlos\Documents\Projects\CSC6dotNET46\CSC6dotNET46\obj\Debug\CSC6dotNET46.pdb
